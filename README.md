@@ -26,7 +26,7 @@ Make a PR and join the future.
 
 Rules:
 - Each run must only print "Hello, world!"
-- The total runtime must be <=1 second.
+- The total runtime must be <=20 seconds.
 - No deletion, only modification and expansion.
 - Each new addition should be documented.
 - Each new addition should be modular.
