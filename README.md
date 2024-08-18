@@ -3,6 +3,7 @@ This project aims to create the most
 - robust
 - scalable
 - future-proof
+- secure
 - innovative
 - AI-infused
 - blockchain-y
@@ -22,3 +23,8 @@ This project aims to create the most
 ... hello world script ever.
 
 Make a PR and join the future.
+
+Rules:
+- Each run must only print "Hello, world!"
+- The total runtime must be <=1 second.
+
