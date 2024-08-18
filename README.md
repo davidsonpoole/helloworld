@@ -29,4 +29,5 @@ Rules:
 - The total runtime must be <=1 second.
 - No deletion, only modification and expansion.
 - Each new addition should be documented.
+- Each new addition should be modular.
 
